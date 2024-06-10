@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Health Diagnostics</string>
+    <string name="action_settings">Settings</string>
+    <string name="flash_off">stop</string>
+    <string name="flash_on">Measure</string>
+    <string name="measuring">Measuring Heart Rate...</string>
+    <string name="heart_rate">Heart rate: %d bpm</string>
+    <string name="splash_title">Welcome to Health Diagnostics</string>
+    <string name="instructions">Place your finger gently on the back of the camera overlapping the flashlight .\n\n DO NOT PRESS , It might interrupt the blood flow measuring. \n\n Try to keep the finger still as possible . \n\n Press Measure to start monitoring .</string>
+</resources>
